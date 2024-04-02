@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rey-classificator/static/css/main.d44b4f15.css",
+    "main.js": "/rey-classificator/static/js/main.d771a55a.js",
+    "static/js/453.ed3810f9.chunk.js": "/rey-classificator/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/rey-classificator/index.html",
+    "main.d44b4f15.css.map": "/rey-classificator/static/css/main.d44b4f15.css.map",
+    "main.d771a55a.js.map": "/rey-classificator/static/js/main.d771a55a.js.map",
+    "453.ed3810f9.chunk.js.map": "/rey-classificator/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44b4f15.css",
+    "static/js/main.d771a55a.js"
+  ]
+}
